@@ -1,0 +1,849 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b5348742-9fed-4b44-86ce-747173aa5fd6" name="Default" comment="">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/bootstrap/css/animations.css" afterPath="$PROJECT_DIR$/resources/images/bootstrap/css/animations.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/bootstrap/css/bootstrap-theme.css" afterPath="$PROJECT_DIR$/resources/images/bootstrap/css/bootstrap-theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/bootstrap/css/bootstrap-theme.css.map" afterPath="$PROJECT_DIR$/resources/images/bootstrap/css/bootstrap-theme.css.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/bootstrap/css/bootstrap-theme.min.css" afterPath="$PROJECT_DIR$/resources/images/bootstrap/css/bootstrap-theme.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/bootstrap/css/bootstrap-theme.min.css.map" afterPath="$PROJECT_DIR$/resources/images/bootstrap/css/bootstrap-theme.min.css.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/bootstrap/css/bootstrap.css" afterPath="$PROJECT_DIR$/resources/images/bootstrap/css/bootstrap.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/bootstrap/css/bootstrap.css.map" afterPath="$PROJECT_DIR$/resources/images/bootstrap/css/bootstrap.css.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/bootstrap/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/resources/images/bootstrap/css/bootstrap.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/bootstrap/css/bootstrap.min.css.map" afterPath="$PROJECT_DIR$/resources/images/bootstrap/css/bootstrap.min.css.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/bootstrap/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/resources/images/bootstrap/css/font-awesome.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/bootstrap/css/formstyle.css" afterPath="$PROJECT_DIR$/resources/images/bootstrap/css/formstyle.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/bootstrap/css/indexstyle.css" afterPath="$PROJECT_DIR$/resources/images/bootstrap/css/indexstyle.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/bootstrap/css/jquery-ui.css" afterPath="$PROJECT_DIR$/resources/images/bootstrap/css/jquery-ui.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/bootstrap/css/style.css" afterPath="$PROJECT_DIR$/resources/images/bootstrap/css/style.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/bootstrap/css/style1.css" afterPath="$PROJECT_DIR$/resources/images/bootstrap/css/style1.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/bootstrap/fonts/Bitter-Bold.otf" afterPath="$PROJECT_DIR$/resources/images/bootstrap/fonts/Bitter-Bold.otf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/bootstrap/fonts/Bitter-BoldItalic.otf" afterPath="$PROJECT_DIR$/resources/images/bootstrap/fonts/Bitter-BoldItalic.otf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/bootstrap/fonts/Bitter-Italic.otf" afterPath="$PROJECT_DIR$/resources/images/bootstrap/fonts/Bitter-Italic.otf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/bootstrap/fonts/Bitter-Regular.otf" afterPath="$PROJECT_DIR$/resources/images/bootstrap/fonts/Bitter-Regular.otf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/bootstrap/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/resources/images/bootstrap/fonts/FontAwesome.otf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/bootstrap/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/resources/images/bootstrap/fonts/fontawesome-webfont.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/bootstrap/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/resources/images/bootstrap/fonts/fontawesome-webfont.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/bootstrap/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/resources/images/bootstrap/fonts/fontawesome-webfont.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/bootstrap/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/resources/images/bootstrap/fonts/fontawesome-webfont.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/bootstrap/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/resources/images/bootstrap/fonts/fontawesome-webfont.woff2" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/resources/images/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/resources/images/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/resources/images/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/resources/images/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/resources/images/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/bootstrap/fonts/segoe-ui-bold.ttf" afterPath="$PROJECT_DIR$/resources/images/bootstrap/fonts/segoe-ui-bold.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/bootstrap/fonts/segoe-ui-semibold.ttf" afterPath="$PROJECT_DIR$/resources/images/bootstrap/fonts/segoe-ui-semibold.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/bootstrap/fonts/segoe_ui_light.eot" afterPath="$PROJECT_DIR$/resources/images/bootstrap/fonts/segoe_ui_light.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/bootstrap/fonts/ufonts.com_segoe-ui-light.ttf" afterPath="$PROJECT_DIR$/resources/images/bootstrap/fonts/ufonts.com_segoe-ui-light.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/bootstrap/js/animatescroll.min.js" afterPath="$PROJECT_DIR$/resources/images/bootstrap/js/animatescroll.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/bootstrap/js/bootstrap.js" afterPath="$PROJECT_DIR$/resources/images/bootstrap/js/bootstrap.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/bootstrap/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/resources/images/bootstrap/js/bootstrap.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/bootstrap/js/css3-animate-it.js" afterPath="$PROJECT_DIR$/resources/images/bootstrap/js/css3-animate-it.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/bootstrap/js/date.js" afterPath="$PROJECT_DIR$/resources/images/bootstrap/js/date.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/bootstrap/js/jquery-ui.js" afterPath="$PROJECT_DIR$/resources/images/bootstrap/js/jquery-ui.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/bootstrap/js/jquery.js" afterPath="$PROJECT_DIR$/resources/images/bootstrap/js/jquery.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/bootstrap/js/jquery.min.js" afterPath="$PROJECT_DIR$/resources/images/bootstrap/js/jquery.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/bootstrap/js/jquery1.12.4.js" afterPath="$PROJECT_DIR$/resources/images/bootstrap/js/jquery1.12.4.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/bootstrap/js/npm.js" afterPath="$PROJECT_DIR$/resources/images/bootstrap/js/npm.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/bootstrap/js/parallax.min.js" afterPath="$PROJECT_DIR$/resources/images/bootstrap/js/parallax.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/bootstrap/midvalley.css" afterPath="$PROJECT_DIR$/resources/images/bootstrap/midvalley.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/views/MIDVALLEY/Data_table/create.php" afterPath="$PROJECT_DIR$/views/MIDVALLEY/admin/create.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/views/MIDVALLEY/Data_table/edit.php" afterPath="$PROJECT_DIR$/views/MIDVALLEY/admin/edit.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/views/MIDVALLEY/Data_table/email.php" afterPath="$PROJECT_DIR$/views/MIDVALLEY/admin/email.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/views/MIDVALLEY/Data_table/gmail.php" afterPath="$PROJECT_DIR$/views/MIDVALLEY/admin/gmail.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/views/MIDVALLEY/Data_table/mid_index.php" afterPath="$PROJECT_DIR$/views/MIDVALLEY/admin/mid_index.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/views/MIDVALLEY/Data_table/store.php" afterPath="$PROJECT_DIR$/views/MIDVALLEY/admin/store.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/views/MIDVALLEY/Data_table/update.php" afterPath="$PROJECT_DIR$/views/MIDVALLEY/admin/update.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/views/MIDVALLEY/Data_table/view.php" afterPath="$PROJECT_DIR$/views/MIDVALLEY/admin/view.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/views/MIDVALLEY/Data_table/xl.php" afterPath="$PROJECT_DIR$/views/MIDVALLEY/admin/xl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/MIDVALLEY/Message/Message.php" afterPath="$PROJECT_DIR$/src/MIDVALLEY/Message/Message.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/MIDVALLEY/MidValley/MidValley.php" afterPath="$PROJECT_DIR$/src/MIDVALLEY/MidValley/MidValley.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/MIDVALLEY/Model/Database.php" afterPath="$PROJECT_DIR$/src/MIDVALLEY/Model/Database.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpoffice/phpexcel/Classes/PHPExcel/Calculation.php" afterPath="$PROJECT_DIR$/vendor/phpoffice/phpexcel/Classes/PHPExcel/Calculation.php" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="view.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/MIDVALLEY/admin/view.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1581">
+              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mid_index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/MIDVALLEY/admin/mid_index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="301">
+              <caret line="127" column="126" lean-forward="false" selection-start-line="127" selection-start-column="126" selection-end-line="127" selection-end-column="126" />
+              <folding>
+                <marker date="1527680306537" expanded="true" signature="5173:5848" ph="..." />
+                <marker date="1527680306537" expanded="true" signature="5404:5835" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="edit.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/MIDVALLEY/admin/edit.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4182">
+              <caret line="246" column="193" lean-forward="false" selection-start-line="246" selection-start-column="193" selection-end-line="246" selection-end-column="193" />
+              <folding>
+                <marker date="1528303110797" expanded="true" signature="415:537" ph="..." />
+                <marker date="1528303110797" expanded="false" signature="441:507" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MidValley.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/MIDVALLEY/MidValley/MidValley.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="271">
+              <caret line="174" column="35" lean-forward="true" selection-start-line="174" selection-start-column="35" selection-end-line="174" selection-end-column="35" />
+              <folding>
+                <marker date="1527680524955" expanded="true" signature="4254:4574" ph="INSERT INTO `mid_info`... " />
+                <marker date="1527680524955" expanded="true" signature="4958:4982" ph="SELECT * FRO... mid_info" />
+                <marker date="1527680524955" expanded="true" signature="5241:5275" ph="Select * fro... mid_info" />
+                <marker date="1527680524955" expanded="true" signature="5513:5813" ph="UPDATE `mid_... " />
+                <marker date="1527680524955" expanded="true" signature="6710:6914" ph="SELECT * FRO... mid_info" />
+                <marker date="1527680524955" expanded="true" signature="7038:7135" ph="SELECT * FRO... mid_info" />
+                <marker date="1527680524955" expanded="true" signature="7260:7361" ph="SELECT * FRO... mid_info" />
+                <marker date="1527680524955" expanded="true" signature="7486:7590" ph="SELECT * FRO... mid_info" />
+                <marker date="1527680524955" expanded="true" signature="9425:9488" ph="SELECT * fro... mid_info" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="tsconfig.json" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>.conta</find>
+      <find>2</find>
+      <find>country</find>
+      <find>bo</find>
+      <find>col-sm-5</find>
+      <find>col-sm-4</find>
+      <find>col-sm-</find>
+      <find>col-sm-3</find>
+      <find>td</find>
+      <find>pannel</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>5</replace>
+      <replace>3</replace>
+      <replace>month</replace>
+      <replace>col-sm-4</replace>
+      <replace>col-sm-3</replace>
+      <replace>col-sm-5</replace>
+      <replace>th</replace>
+    </replaceStrings>
+  </component>
+  <component name="FrameworkCommandLineHistory">
+    <commandsHistory>
+      <command text="composer dump-autoload" />
+      <command text="composer update" />
+      <command text="composer dump_autoload" />
+    </commandsHistory>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Log_reg/lib/Database.php" />
+        <option value="$PROJECT_DIR$/Log_reg/lib/Session.php" />
+        <option value="$PROJECT_DIR$/Log_reg/lib/User.php" />
+        <option value="$PROJECT_DIR$/Log_reg/index.php" />
+        <option value="$PROJECT_DIR$/Log_reg/resources/log_reg.css" />
+        <option value="$PROJECT_DIR$/Log_reg/resources/index.css" />
+        <option value="$PROJECT_DIR$/Log_reg/inc/footer.php" />
+        <option value="$PROJECT_DIR$/Log_reg/inc/header.php" />
+        <option value="$PROJECT_DIR$/Log_reg/logreg_index.php" />
+        <option value="$PROJECT_DIR$/Log_reg/login.php" />
+        <option value="$PROJECT_DIR$/Log_reg/profile.php" />
+        <option value="$PROJECT_DIR$/resources/images/bootstrap/index.css" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/src/MIDVALLEY/Format/Format.php" />
+        <option value="$PROJECT_DIR$/views/MIDVALLEY/admin/register.php" />
+        <option value="$PROJECT_DIR$/views/MIDVALLEY/user/store.php" />
+        <option value="$PROJECT_DIR$/views/MIDVALLEY/user/user_store.php" />
+        <option value="$PROJECT_DIR$/views/MIDVALLEY/user/register.php" />
+        <option value="$PROJECT_DIR$/src/MIDVALLEY/Model/UserDatabase.php" />
+        <option value="$PROJECT_DIR$/src/MIDVALLEY/User/Auth.php" />
+        <option value="$PROJECT_DIR$/views/MIDVALLEY/index.html" />
+        <option value="$PROJECT_DIR$/views/MIDVALLEY/user/Profile/resetpassword.php" />
+        <option value="$PROJECT_DIR$/views/MIDVALLEY/user/Profile/emailverification.php" />
+        <option value="$PROJECT_DIR$/src/MIDVALLEY/Model/Database.php" />
+        <option value="$PROJECT_DIR$/views/MIDVALLEY/user/login.php" />
+        <option value="$PROJECT_DIR$/src/MIDVALLEY/Message/Message.php" />
+        <option value="$PROJECT_DIR$/src/MIDVALLEY/User/User.php" />
+        <option value="$PROJECT_DIR$/views/MIDVALLEY/user/Profile/registration.php" />
+        <option value="$PROJECT_DIR$/views/MIDVALLEY/admin/email.php" />
+        <option value="$PROJECT_DIR$/views/MIDVALLEY/user/Authentication/login.php" />
+        <option value="$PROJECT_DIR$/resources/css/style1.css" />
+        <option value="$PROJECT_DIR$/views/MIDVALLEY/user/Authentication/adminlogin.php" />
+        <option value="$PROJECT_DIR$/src/MIDVALLEY/Admin/Admin.php" />
+        <option value="$PROJECT_DIR$/views/MIDVALLEY/user/Authentication/adminlogout.php" />
+        <option value="$PROJECT_DIR$/views/MIDVALLEY/index.php" />
+        <option value="$PROJECT_DIR$/views/MIDVALLEY/admin/adminlogin.php" />
+        <option value="$PROJECT_DIR$/views/MIDVALLEY/user/Profile/forgotten.php" />
+        <option value="$PROJECT_DIR$/views/MIDVALLEY/user/Profile/userlogin.php" />
+        <option value="$PROJECT_DIR$/views/MIDVALLEY/user/Authentication/logout.php" />
+        <option value="$PROJECT_DIR$/vendor/phpoffice/phpexcel/Classes/PHPExcel/Calculation.php" />
+        <option value="$PROJECT_DIR$/resources/css/style.css" />
+        <option value="$PROJECT_DIR$/views/MIDVALLEY/admin/mid_index.php" />
+        <option value="$PROJECT_DIR$/src/MIDVALLEY/MidValley/MidValley.php" />
+        <option value="$PROJECT_DIR$/views/MIDVALLEY/admin/create.php" />
+        <option value="$PROJECT_DIR$/views/MIDVALLEY/user/logreg_index.php" />
+        <option value="$PROJECT_DIR$/views/MIDVALLEY/user/Profile/signup.php" />
+        <option value="$PROJECT_DIR$/views/MIDVALLEY/admin/view.php" />
+        <option value="$PROJECT_DIR$/src/MIDVALLEY/Session/Session.php" />
+        <option value="$PROJECT_DIR$/views/MIDVALLEY/user/profile.php" />
+        <option value="$PROJECT_DIR$/views/MIDVALLEY/user/view.php" />
+        <option value="$PROJECT_DIR$/views/MIDVALLEY/admin/edit.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="754" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Midvalley" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Midvalley" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Midvalley" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Midvalley" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MIDVALLEY" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Midvalley" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Midvalley" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MIDVALLEY" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Midvalley" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Midvalley" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MIDVALLEY" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Midvalley" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Midvalley" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MIDVALLEY" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MidValley" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BHTC" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\Midvalley\views\MIDVALLEY\user" />
+      <recent name="C:\xampp\htdocs\Midvalley\resources\images" />
+      <recent name="C:\xampp\htdocs\Midvalley\resources\bootstrap" />
+      <recent name="C:\xampp\htdocs\Midvalley" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\Midvalley\src\MIDVALLEY\Admin" />
+      <recent name="C:\xampp\htdocs\Midvalley\views\MIDVALLEY\user" />
+      <recent name="C:\xampp\htdocs\Midvalley\views\MIDVALLEY\Data_table" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5348742-9fed-4b44-86ce-747173aa5fd6" name="Default" comment="" />
+      <created>1518971426649</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1518971426649</updated>
+      <workItem from="1518971427966" duration="5573000" />
+      <workItem from="1519060520825" duration="4814000" />
+      <workItem from="1519127574553" duration="3424000" />
+      <workItem from="1519132000224" duration="15585000" />
+      <workItem from="1519174713081" duration="35943000" />
+      <workItem from="1519219570680" duration="8093000" />
+      <workItem from="1519263929182" duration="9778000" />
+      <workItem from="1519314365822" duration="929000" />
+      <workItem from="1519361140043" duration="5979000" />
+      <workItem from="1519373238020" duration="594000" />
+      <workItem from="1519399323585" duration="213000" />
+      <workItem from="1519399557294" duration="8935000" />
+      <workItem from="1522837205536" duration="2567000" />
+      <workItem from="1522850241365" duration="1910000" />
+      <workItem from="1522856485810" duration="5161000" />
+      <workItem from="1522909072097" duration="608000" />
+      <workItem from="1522944696970" duration="595000" />
+      <workItem from="1523365675686" duration="5246000" />
+      <workItem from="1523376211218" duration="3709000" />
+      <workItem from="1523407083754" duration="50000" />
+      <workItem from="1523407159361" duration="11239000" />
+      <workItem from="1523458257154" duration="3042000" />
+      <workItem from="1523507800535" duration="2401000" />
+      <workItem from="1523552829134" duration="7527000" />
+      <workItem from="1523613721955" duration="7113000" />
+      <workItem from="1523625458635" duration="8843000" />
+      <workItem from="1523677038219" duration="13121000" />
+      <workItem from="1523766274017" duration="4979000" />
+      <workItem from="1523779379181" duration="598000" />
+      <workItem from="1523788407709" duration="1872000" />
+      <workItem from="1523800730004" duration="11440000" />
+      <workItem from="1523897639754" duration="3401000" />
+      <workItem from="1524028072475" duration="3786000" />
+      <workItem from="1524836404209" duration="3281000" />
+      <workItem from="1525099332875" duration="142000" />
+      <workItem from="1525236590255" duration="3768000" />
+      <workItem from="1525534722064" duration="9000" />
+      <workItem from="1525538260499" duration="526000" />
+      <workItem from="1525625375253" duration="1710000" />
+      <workItem from="1525874469299" duration="2184000" />
+      <workItem from="1525911096051" duration="580000" />
+      <workItem from="1526315361110" duration="6669000" />
+      <workItem from="1526344333475" duration="1470000" />
+      <workItem from="1526346408805" duration="757000" />
+      <workItem from="1526391792698" duration="607000" />
+      <workItem from="1526486761171" duration="3946000" />
+      <workItem from="1526518819378" duration="5423000" />
+      <workItem from="1526564192067" duration="607000" />
+      <workItem from="1527678486911" duration="2702000" />
+      <workItem from="1527739495726" duration="90000" />
+      <workItem from="1527740095401" duration="1267000" />
+      <workItem from="1527744606825" duration="622000" />
+      <workItem from="1527782878349" duration="597000" />
+      <workItem from="1528133221011" duration="2547000" />
+      <workItem from="1528212061442" duration="5676000" />
+      <workItem from="1528291524265" duration="597000" />
+      <workItem from="1528298940648" duration="2377000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="247222000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18081991" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Log_reg/inc/header.php" />
+    <entry file="file://$PROJECT_DIR$/resources/images/prod-3.jpg" />
+    <entry file="file://$PROJECT_DIR$/views/MIDVALLEY/admin/home.php" />
+    <entry file="file://$PROJECT_DIR$/Log_reg/lib/Session.php" />
+    <entry file="file://$PROJECT_DIR$/Log_reg/lib/User.php" />
+    <entry file="file://$PROJECT_DIR$/resources/images/bootstrap/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="23" column="26" lean-forward="false" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MIDVALLEY/Model/UserDatabase.php" />
+    <entry file="file://$PROJECT_DIR$/resources/images/about-img.png" />
+    <entry file="file://$PROJECT_DIR$/index.php" />
+    <entry file="file://$PROJECT_DIR$/src/MIDVALLEY/Utility/Utility.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="30" column="5" lean-forward="false" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/MIDVALLEY/user/login.php" />
+    <entry file="file://$PROJECT_DIR$/src/MIDVALLEY/Message/Message.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/images/bootstrap/midvalley.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="58" column="17" lean-forward="true" selection-start-line="58" selection-start-column="17" selection-end-line="58" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MIDVALLEY/Format/Format.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="556">
+          <caret line="42" column="5" lean-forward="false" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TEAM_SPARTAN/views/SPARTAN/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../UserManagement/src/BITM/SEIPXXXX/User/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2164">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/MIDVALLEY/admin/xl.php" />
+    <entry file="file://$PROJECT_DIR$/views/MIDVALLEY/admin/gmail.php" />
+    <entry file="file://$PROJECT_DIR$/views/MIDVALLEY/admin/email.php" />
+    <entry file="file://$PROJECT_DIR$/src/MIDVALLEY/Model/Database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/MIDVALLEY/user/Profile/registration.php" />
+    <entry file="file://$PROJECT_DIR$/views/MIDVALLEY/user/register.php" />
+    <entry file="file://$PROJECT_DIR$/views/MIDVALLEY/user/user_store.php" />
+    <entry file="file://$PROJECT_DIR$/views/MIDVALLEY/user/Profile/emailverification.php" />
+    <entry file="file://$PROJECT_DIR$/views/MIDVALLEY/admin/store.php" />
+    <entry file="file://$PROJECT_DIR$/views/MIDVALLEY/user/Authentication/login.php" />
+    <entry file="file://$PROJECT_DIR$/views/MIDVALLEY/admin/adminlogin.php" />
+    <entry file="file://$PROJECT_DIR$/views/MIDVALLEY/user/Authentication/adminlogin.php" />
+    <entry file="file://$PROJECT_DIR$/views/MIDVALLEY/user/Authentication/adminlogout.php" />
+    <entry file="file://$PROJECT_DIR$/views/MIDVALLEY/user/Profile/forgotten.php" />
+    <entry file="file://$PROJECT_DIR$/src/MIDVALLEY/User/Auth.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="55" column="0" lean-forward="true" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/MIDVALLEY/user/Authentication/logout.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/phpoffice/phpexcel/Classes/PHPExcel/Calculation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="3787" column="17" lean-forward="true" selection-start-line="3787" selection-start-column="17" selection-end-line="3787" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/MIDVALLEY/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="24" column="12" lean-forward="false" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/css/style1.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="177" column="5" lean-forward="false" selection-start-line="177" selection-start-column="4" selection-end-line="177" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/MIDVALLEY/user/Profile/signup.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="81" column="149" lean-forward="false" selection-start-line="81" selection-start-column="149" selection-end-line="81" selection-end-column="149" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/MIDVALLEY/user/logreg_index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="88" column="30" lean-forward="false" selection-start-line="88" selection-start-column="20" selection-end-line="88" selection-end-column="30" />
+          <folding>
+            <marker date="1527681508537" expanded="true" signature="4882:5277" ph="..." />
+            <marker date="1527681508537" expanded="true" signature="5113:5264" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/MIDVALLEY/admin/update.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/MIDVALLEY/admin/create.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4097">
+          <caret line="241" column="110" lean-forward="false" selection-start-line="241" selection-start-column="110" selection-end-line="241" selection-end-column="110" />
+          <folding>
+            <marker date="1527680893271" expanded="true" signature="1315:1453" ph="..." />
+            <marker date="1527680893271" expanded="false" signature="1356:1422" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/MIDVALLEY/user/Profile/resetpassword.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+          <folding>
+            <element signature="e#94#112#0#PHP" expanded="false" />
+            <marker date="1523809376000" expanded="true" signature="533:659" ph="..." />
+            <marker date="1523809376000" expanded="true" signature="854:953" ph="..." />
+            <marker date="1523809376000" expanded="true" signature="1205:1309" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/MIDVALLEY/user/profile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="54" column="38" lean-forward="false" selection-start-line="54" selection-start-column="38" selection-end-line="54" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/MIDVALLEY/user/view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="129" column="8" lean-forward="false" selection-start-line="129" selection-start-column="8" selection-end-line="129" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MIDVALLEY/Session/Session.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="55" column="26" lean-forward="false" selection-start-line="55" selection-start-column="26" selection-end-line="55" selection-end-column="26" />
+          <folding>
+            <element signature="e#6#94#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/MIDVALLEY/user/Profile/userlogin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MIDVALLEY/User/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="54" column="48" lean-forward="false" selection-start-line="54" selection-start-column="44" selection-end-line="54" selection-end-column="48" />
+          <folding>
+            <element signature="e#26#50#0#PHP" expanded="true" />
+            <marker date="1524031558000" expanded="true" signature="1542:1707" ph="INSERT INTO users... " />
+            <marker date="1524031558000" expanded="true" signature="1932:2093" ph="..." />
+            <marker date="1524031558000" expanded="true" signature="2259:2363" ph="..." />
+            <marker date="1524031558000" expanded="true" signature="2504:2587" ph="UPDATE `mid_... " />
+            <marker date="1524031558000" expanded="true" signature="2821:2922" ph="..." />
+            <marker date="1524031558000" expanded="true" signature="3041:3089" ph="SELECT * FRO... users" />
+            <marker date="1524031558000" expanded="true" signature="3320:3419" ph="UPDATE `mid_... " />
+            <marker date="1524031558000" expanded="true" signature="3594:3712" ph="..." />
+            <marker date="1524031558000" expanded="true" signature="3923:4107" ph="UPDATE `mid_... " />
+            <marker date="1524031558000" expanded="true" signature="4477:4574" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/MIDVALLEY/admin/view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1581">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MIDVALLEY/Admin/Admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1134">
+          <caret line="75" column="5" lean-forward="false" selection-start-line="75" selection-start-column="5" selection-end-line="75" selection-end-column="5" />
+          <folding>
+            <marker date="1526490724000" expanded="true" signature="689:756" ph="SELECT * FRO... tbl_admin" />
+            <marker date="1526490724000" expanded="true" signature="1073:1197" ph="SELECT * FRO... tbl_admin" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/MIDVALLEY/admin/mid_index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="127" column="126" lean-forward="false" selection-start-line="127" selection-start-column="126" selection-end-line="127" selection-end-column="126" />
+          <folding>
+            <marker date="1527680306537" expanded="true" signature="5173:5848" ph="..." />
+            <marker date="1527680306537" expanded="true" signature="5404:5835" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/MIDVALLEY/admin/edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4182">
+          <caret line="246" column="193" lean-forward="false" selection-start-line="246" selection-start-column="193" selection-end-line="246" selection-end-column="193" />
+          <folding>
+            <marker date="1528303110797" expanded="true" signature="415:537" ph="..." />
+            <marker date="1528303110797" expanded="false" signature="441:507" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MIDVALLEY/MidValley/MidValley.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="174" column="35" lean-forward="true" selection-start-line="174" selection-start-column="35" selection-end-line="174" selection-end-column="35" />
+          <folding>
+            <marker date="1527680524955" expanded="true" signature="4254:4574" ph="INSERT INTO `mid_info`... " />
+            <marker date="1527680524955" expanded="true" signature="4958:4982" ph="SELECT * FRO... mid_info" />
+            <marker date="1527680524955" expanded="true" signature="5241:5275" ph="Select * fro... mid_info" />
+            <marker date="1527680524955" expanded="true" signature="5513:5813" ph="UPDATE `mid_... " />
+            <marker date="1527680524955" expanded="true" signature="6710:6914" ph="SELECT * FRO... mid_info" />
+            <marker date="1527680524955" expanded="true" signature="7038:7135" ph="SELECT * FRO... mid_info" />
+            <marker date="1527680524955" expanded="true" signature="7260:7361" ph="SELECT * FRO... mid_info" />
+            <marker date="1527680524955" expanded="true" signature="7486:7590" ph="SELECT * FRO... mid_info" />
+            <marker date="1527680524955" expanded="true" signature="9425:9488" ph="SELECT * fro... mid_info" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
